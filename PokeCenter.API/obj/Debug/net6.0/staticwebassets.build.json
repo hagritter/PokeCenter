@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SztjZCDIUPmLaOC2dqrlgHAG4GPm9hXQcs7C14+5WFA=",
+  "Source": "PokeCenter.API",
+  "BasePath": "_content/PokeCenter.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
